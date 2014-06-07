@@ -24,17 +24,19 @@ Facilitate the management of the UWS website and membership system.
 
 ### Technology stack / partners
 
-Technology | costs | url
------------|-------|----
-Digital Ocean | $5/month (I currently have a credit with them) | https://www.digitalocean.com
-Ember.js | free | http://emberjs.com
-Foudation | free | http://foundation.zurb.com
-Firebase.com | hacker plan is free | https://www.firebase.com
-discourse | free | http://www.discourse.org
-github | free | https://github.com
+Technology | Role | Costs | Url
+-----------|-----|------|----
+Digital Ocean | Cloud hosting | $5/month (credit balance) | https://www.digitalocean.com
+Ember.js | framework | free | http://emberjs.com
+Foudation | Reponsive Design | free | http://foundation.zurb.com
+Firebase.com | Cloud Database | hacker plan is free | https://www.firebase.com
+discourse | discussion forum | free | http://www.discourse.org
+github | Source control | free | https://github.com
 
 
 ###Future topics will include
 
 1. How to participate.
-
+2. Installation instructions
+3. Maintenance instructions
+4. Critical contact for the platform
