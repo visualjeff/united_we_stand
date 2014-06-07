@@ -27,10 +27,11 @@ Facilitate the management of the UWS website and membership system.
 Technology | Role | Costs | Url
 -----------|-----|------|----
 Digital Ocean | Cloud hosting | $5/month (credit balance) | https://www.digitalocean.com
-Ember.js | framework | free | http://emberjs.com
+Ember.js | Javascript Framework | free | http://emberjs.com
 Foudation | Reponsive Design | free | http://foundation.zurb.com
 Firebase.com | Cloud Database | hacker plan is free | https://www.firebase.com
-discourse | discussion forum | free | http://www.discourse.org
+Discourse | Discussion forum | free | http://www.discourse.org
+OAuth | Authentication | free | 
 github | Source control | free | https://github.com
 
 
