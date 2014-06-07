@@ -32,14 +32,15 @@ Foudation | Reponsive Design | free | http://foundation.zurb.com
 Firebase.com | Cloud Database | hacker plan is free | https://www.firebase.com
 Discourse | Discussion forum | free | http://www.discourse.org
 OAuth | Authentication | free | 
+Mandrill | Messaging relay | free | http://mandrill.com/
 Github | Source control | free | https://github.com
 
 ###Future topics will include
 
 1. How to participate
 2. Installation instructions
-  * Clone the repository
-  * Submit pull requests
+  * Cloning the repository so you can contribute
+  * Submitting pull requests to get your changes into the project
 3. Maintenance instructions
   * Automated TravisCI builds
   * Automated deployments to DigitalOcean
