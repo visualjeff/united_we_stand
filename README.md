@@ -41,6 +41,6 @@ Github | Source control | free | https://github.com
   * Clone the repository
   * Submit pull requests
 3. Maintenance instructions
-  * Automated builds
-  * Automated deployments
+  * Automated TravisCI builds
+  * Automated deployments to DigitalOcean
 4. Critical contacts for the platform
