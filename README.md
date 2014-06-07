@@ -13,7 +13,7 @@ Facilitate the management of the UWS website and membership system.
 
 4. Integrate authentication with google, yahoo, twitter, opened.  Referred to in the industry as OAuth.
 
-5. We would automate sign-up, management of roles, and have individual or group messaging.  
+5. We would automate sign-up, management of roles, and have individual or group messaging (broadcasting).  
 
 6. Maybe could even tie into the existing API’s exposed for different games (killzone, battlefield, call of duty, etc).  Providing tighter integration with official game sites.
 
@@ -26,9 +26,9 @@ Facilitate the management of the UWS website and membership system.
 
 Technology | costs | url
 -----------|-------|----
-Digital Ocean | ($5/month but I have a credit with them) | https://www.digitalocean.com
-Ember.js | (free) | http://emberjs.com
-Foudation | (free) | http://foundation.zurb.com
-Firebase.com | (hacker plan is free) | https://www.firebase.com
-discourse | (free) | http://www.discourse.org
-github | (free) | https://github.com
+Digital Ocean | $5/month (I currently have a credit with them) | https://www.digitalocean.com
+Ember.js | free | http://emberjs.com
+Foudation | free | http://foundation.zurb.com
+Firebase.com | hacker plan is free | https://www.firebase.com
+discourse | free | http://www.discourse.org
+github | free | https://github.com
