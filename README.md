@@ -3,7 +3,7 @@ UWS clan platform
 
 Facilitate the management of the UWS website and membership system.  
 
-###Our goals include:
+###Goals include:
 
 1. A cloud based clan app (using ember.js) backed with a real cloud datasource from (firebase.com)
 
@@ -32,3 +32,9 @@ Foudation | free | http://foundation.zurb.com
 Firebase.com | hacker plan is free | https://www.firebase.com
 discourse | free | http://www.discourse.org
 github | free | https://github.com
+
+
+###Future topics will include
+
+1. How to participate.
+
