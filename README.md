@@ -32,12 +32,15 @@ Foudation | Reponsive Design | free | http://foundation.zurb.com
 Firebase.com | Cloud Database | hacker plan is free | https://www.firebase.com
 Discourse | Discussion forum | free | http://www.discourse.org
 OAuth | Authentication | free | 
-github | Source control | free | https://github.com
-
+Github | Source control | free | https://github.com
 
 ###Future topics will include
 
-1. How to participate.
+1. How to participate
 2. Installation instructions
+  * Clone the repository
+  * Submit pull requests
 3. Maintenance instructions
-4. Critical contact for the platform
+  * Automated builds
+  * Automated deployments
+4. Critical contacts for the platform
