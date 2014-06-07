@@ -1,7 +1,7 @@
 UWS clan platform 
 ===================
 
-Created for managing the UWS website and membership system and overall integration.  
+Facilitate the management of the UWS website and membership system.  
 
 ###Our goals include:
 
