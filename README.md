@@ -24,6 +24,8 @@ Facilitate the management of the UWS website and membership system.
 9. Voting system
 
 10. Upgrade details - Game experts break out changes in multiplay updates. 
+11. Onboarding system for new members. 
+
 
 ### Technology stack / partners
 
