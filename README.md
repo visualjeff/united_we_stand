@@ -19,8 +19,11 @@ Facilitate the management of the UWS website and membership system.
 
 7. Commerce piece - linking in Amazon (for game related purchases) so the site could generate a few dollars to offset any future costs.
 
-8. Clothing piece - Offer clothes, caps, coffee cups and shot glasses with the logo.
+8. Clothing piece - Offer clothes, caps, coffee cups and shot glasses with the logo.  Could use Paypal for processing payment.
 
+9. Voting system
+
+10. Upgrade details - Game experts break out changes in multiplay updates. 
 
 ### Technology stack / partners
 
